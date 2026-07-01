@@ -1,4 +1,4 @@
-<!-- Seção: Me interesso por --
+<!-- Seção: Me interesso por ---
 ### 💜 Me interesso por:
 
 * **Desenvolvimento Full Stack**
