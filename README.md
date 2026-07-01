@@ -46,9 +46,9 @@ Atualmente, estou me dedicando à tecnologia através da **Generation**, onde me
 
 <br><br>
 
-<div align="center">
-  <!-- SUA IMAGEM AQUI NO FINAL -->
-  <img src="https://github.com/vitoriaalbuquerqueee/SEU_REPOSITORIO/blob/main/image_25.png" width="400" alt="Vitória programando no setup roxo" />
+<<div align="center">
+  <img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/vitoriaalbuquerqueee/main/image_25.png" width="400" alt="Vitória programando no setup roxo" />
+</div>
   <br><br>
   
   <!-- Despedida com emojis roxos -->
