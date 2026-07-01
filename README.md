@@ -1,15 +1,15 @@
-<div align="center">
+<<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,38,100,50,0&height=200&section=header&text=Vitória%20Albuquerque&fontSize=50&fontAlignY=35&animation=fadeIn&stroke=f8f8f8" />
 </div>
 
 # Olá, sou a Vitória! 👋
 
-## 👨‍💻 Sobre mim
-Desenvolvedora Full Stack em formação | Transformando ideias em soluções tecnológicas. ✨
-Focada em criar aplicações organizadas, escaláveis e focadas em resolver problemas reais.
+## 🚀 Sobre mim
+Minha trajetória é marcada por uma transição de carreira estratégica e movida pela paixão. Anteriormente, atuei na gestão de equipes terceirizadas para arenas de esportes de alto padrão, onde desenvolvi habilidades valiosas de liderança, organização e resolução de problemas.
+
+Hoje, essa experiência em gestão se funde com minha profunda paixão pela tecnologia. Como Desenvolvedora Full Stack em formação, meu objetivo é construir aplicações que façam a diferença. Sou movida pelo desejo de evolução constante e planejo levar minha carreira para o cenário internacional, unindo conhecimento técnico a novas vivências globais.
 
 ## 🛠 Minhas Skills
-<!-- Badges em tons de roxo e escuro -->
 ![Java](https://img.shields.io/badge/Java-5A2D82?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4B0082?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
