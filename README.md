@@ -1,10 +1,5 @@
 <div align="center">
-  <!-- Imagem animada (GIF) do setup roxo -->
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="600" />
-  
-  <br><br>
-  
-  <!-- Efeito de texto digitando -->
+  <!-- Efeito de texto digitando no topo -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&width=435&lines=Olá!+Me+chamo+Vitória!;Desenvolvedora+Full+Stack+em+formação" />
 </div>
 
@@ -33,7 +28,7 @@ Atualmente, estou me dedicando à tecnologia através da **Generation**, onde me
 ## 💼 Projetos & Experiência
 * **Empreendedorismo:** Gestão estratégica de unidades em arenas de esportes de alto padrão.
 * **ServiceFlow:** Sistema para gestão de freelancers e temporários. 
-* *[Adicione aqui links para outros projetos do seu GitHub, como sua conta bancária em Java]*
+* *[Adicione aqui links para outros projetos do seu GitHub]*
 
 ---
 
@@ -48,7 +43,14 @@ Atualmente, estou me dedicando à tecnologia através da **Generation**, onde me
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriaalbuquerqueee&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
 </div>
 
+<br><br>
+
 <div align="center">
-  <br>
-  <p>🌸 Obrigada pela visita! Vamos conectar? 🌸</p>
+  <!-- SUA IMAGEM AQUI NO FINAL -->
+  <img src="https://github.com/vitoriaalbuquerqueee/SEU_REPOSITORIO/blob/main/image_25.png" width="400" alt="Vitória programando no setup roxo" />
+  <br><br>
+  
+  <!-- Despedida com emojis roxos -->
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" />
+  <h3 style="color: #8A2BE2;"> 💜 Obrigada pela visita! Vamos conectar? 👾 🔮 </h3>
 </div>
