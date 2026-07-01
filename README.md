@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,12,38,100,50,0&height=200&section=header&text=Vitória%20Albuquerque&fontSize=50&fontAlignY=35&animation=fadeIn&stroke=f8f8f8" />
 </div>
 
