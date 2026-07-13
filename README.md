@@ -2,7 +2,7 @@
 
 <h3 align="center">Olá! Me chamo Vitória Albuquerque; Desenvolvedora Full Stack em formação</h3>
 
-# 🚀 Um pouco sobre mim
+ Um pouco sobre mim
 
 Minha trajetória profissional é marcada por visão, adaptabilidade e uma busca constante por desafios.
 
