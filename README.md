@@ -27,9 +27,8 @@ Hoje, realizo uma transição de carreira para a tecnologia, integrando minha ba
 - 🗄️ [Banco de Dados — Atividades SQL](https://github.com/vitoriaalbuquerqueee/banco_de_dados)
 - 💻 [Projeto Final - Bloco 01](https://github.com/vitoriaalbuquerqueee/projeto_final_bloco_01)
 - 📝 [Prática Avaliada 03](https://github.com/vitoriaalbuquerqueee/Pratica-Avaliada-03)
-- 🔧 [Aula Git](https://github.com/vitoriaalbuquerqueee/aula_git)
 - 💰 [Conta Bancária](https://github.com/vitoriaalbuquerqueee/conta-bancaria)
-- 📚 [Introdução à Computação — Git](https://github.com/vitoriaalbuquerqueee/introcoa-git)
+
 
 ---
 
