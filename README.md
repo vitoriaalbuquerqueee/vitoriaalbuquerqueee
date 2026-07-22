@@ -26,12 +26,11 @@ Desenvolvedora Java Full Stack em Formação
 <a href="https://instagram.com/vitoriaalbuqueerque">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+•+REST+APIs+•+MySQL;Always+Learning+New+Technologies;Building+Solutions+Through+Technology."/>
+
 
 </p>
 
@@ -99,11 +98,6 @@ Antes da tecnologia, atuei como empreendedora na gestão de equipes e processos,
 - Eclipse
 - VS Code
 
-### 🌱 Estudando
-
-- Docker
-- AWS
-
 ---
 
 # 📚 Atualmente estudando
@@ -116,34 +110,6 @@ Antes da tecnologia, atuei como empreendedora na gestão de equipes e processos,
 - 🐙 Git & GitHub
 - 🐳 Docker
 - ☁️ AWS
-
----
-
-# 🎯 Roadmap
-
-✅ Java
-
-✅ Programação Orientada a Objetos
-
-✅ SQL
-
-✅ MySQL
-
-✅ Git & GitHub
-
-🔄 Spring Boot
-
-🔄 Spring Security
-
-🔄 JPA / Hibernate
-
-🔜 Docker
-
-🔜 AWS
-
-🔜 CI/CD
-
----
 
 # 📂 Projetos
 
@@ -241,33 +207,7 @@ Java • POO
 - Java Avançado
 - Inglês para Tecnologia
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vitoriaalbuquerqueee&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaalbuquerqueee&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriaalbuquerqueee&theme=github_dark"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vitoriaalbuquerqueee&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -287,26 +227,14 @@ Java • POO
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriaalbuquerqueee&theme=react-dark&bg_color=0D1117&color=A855F7&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vitoriaalbuquerqueee/vitoriaalbuquerqueee/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
+</l
 
 # 🌎 Idiomas
 
 | Idioma | Nível |
 |---------|--------|
 | 🇧🇷 Português | Nativo |
-| 🇺🇸 Inglês | Básico (em evolução) |
+| 🇺🇸 Inglês | Intermediario (em evolução) |
 
 ---
 
