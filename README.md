@@ -30,8 +30,6 @@ Desenvolvedora Java Full Stack em Formação
 
 <p align="center">
 
-
-
 </p>
 
 <p align="center">
@@ -54,6 +52,22 @@ Desenvolvedora Java Full Stack em Formação
 
 ---
 
+# ⭐ Projetos em Destaque
+
+🚀 **Projeto Final - Bloco 02**
+API REST completa com autenticação JWT e Spring Security.
+
+💜 **Blog Pessoal**
+CRUD completo utilizando Spring Boot e MySQL.
+
+🎮 **GameStore API**
+Relacionamento entre entidades utilizando Spring Boot e MySQL.
+
+🌐 **Portfólio Web**
+Desenvolvido em HTML e CSS.
+
+---
+
 # 💜 Sobre mim
 
 Sou estudante de **Java Full Stack** pela **Generation Brasil**, apaixonada por tecnologia e pelo desenvolvimento de soluções que geram impacto.
@@ -70,7 +84,7 @@ Antes da tecnologia, atuei como empreendedora na gestão de equipes e processos,
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,html,css,vscode,eclipse,docker"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,html,css,js,vscode,eclipse,docker"/>
 
 </p>
 
@@ -82,8 +96,19 @@ Antes da tecnologia, atuei como empreendedora na gestão de equipes e processos,
 
 - Java
 - Spring Boot
+- Spring Security
+- JWT Authentication
 - Spring Data JPA
+- Hibernate
+- MySQL
 - APIs REST
+- Programação Orientada a Objetos
+
+### 🎨 Front-end
+
+- HTML5
+- CSS3
+- JavaScript
 
 ### 🗄 Banco de Dados
 
@@ -104,46 +129,107 @@ Antes da tecnologia, atuei como empreendedora na gestão de equipes e processos,
 
 - ☕ Java
 - 🌱 Spring Boot
+- 🔒 Spring Security
+- 🎫 JWT Authentication
 - 🗄️ MySQL
 - 🔗 APIs REST
 - 🧩 Programação Orientada a Objetos
 - 🐙 Git & GitHub
-- 🐳 Docker
-- ☁️ AWS
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐳 Docker (em andamento)
+- ☁️ AWS (em andamento)
 
 # 📂 Projetos
 
-## 💜 Blog Pessoal API
+## 🌐 Portfólio Pessoal
 
-API REST desenvolvida utilizando Spring Boot, autenticação, CRUD completo e integração com MySQL.
+Meu primeiro portfólio desenvolvido em HTML e CSS para apresentar minha trajetória, habilidades e projetos.
 
 **Tecnologias**
 
-Java • Spring Boot • Spring Security • JPA • MySQL
+HTML • CSS • GitHub Pages
+
+🔗 https://github.com/vitoriaalbuquerqueee/portifolio
+
+---
+
+## 💜 Blog Pessoal API
+
+API REST completa desenvolvida com autenticação JWT, Spring Security, CRUD, relacionamentos entre entidades e integração com MySQL.
+
+**Tecnologias**
+
+Java • Spring Boot • Spring Security • JWT • JPA • Hibernate • MySQL • REST API
 
 🔗 https://github.com/vitoriaalbuquerqueee/Blog-Pessoal
 
 ---
 
-## 🎮 Generation Game Online *(Em desenvolvimento)*
+## 🎮 Game Store API
 
-Sistema de gerenciamento de personagens e classes utilizando banco de dados relacional.
+API REST para gerenciamento de produtos e categorias, utilizando relacionamento entre entidades e banco de dados relacional.
 
 **Tecnologias**
 
-SQL • MySQL
+Java • Spring Boot • JPA • Hibernate • MySQL • REST API
 
-🔗 Em breve
+🔗 https://github.com/vitoriaalbuquerqueee/GameStore_API
+
+---
+
+## 🔐 Projeto Final - Bloco 02
+
+Projeto completo desenvolvido em equipe durante o Bootcamp Generation Brasil.
+
+Inclui:
+- autenticação JWT
+- Spring Security
+- CRUD completo
+- relacionamentos
+- documentação da API
+- arquitetura REST
+
+**Tecnologias**
+
+Java • Spring Boot • Spring Security • JWT • MySQL
+
+🔗 https://github.com/vitoriaalbuquerqueee/projeto_final_bloco_02
+
+---
+
+## 🏥 Vida Conecta
+
+Projeto colaborativo desenvolvido durante o Bootcamp Generation Brasil. Sistema de seguro de vida e CRM utilizando arquitetura REST.
+
+**Tecnologias**
+
+Java • Spring Boot • MySQL
+
+🔗 https://github.com/vidaconecta
+
+---
+
+## 🌐 Blog Pessoal Front-end
+
+Interface Web do Blog Pessoal desenvolvida utilizando HTML, CSS e JavaScript.
+
+**Tecnologias**
+
+HTML • CSS • JavaScript
+
+🔗 *(adicione o link quando finalizar)*
 
 ---
 
 ## 💾 Banco de Dados
 
-Exercícios de modelagem relacional, consultas SQL e criação de tabelas desenvolvidos durante o Bootcamp Generation Brasil.
+Coleção de exercícios e desafios envolvendo modelagem de dados, relacionamentos, consultas SQL e manipulação de bancos relacionais.
 
 **Tecnologias**
 
-SQL • MySQL
+MySQL • SQL
 
 🔗 https://github.com/vitoriaalbuquerqueee/banco_de_dados
 
@@ -151,7 +237,7 @@ SQL • MySQL
 
 ## 🏦 Conta Bancária
 
-Projeto desenvolvido utilizando Programação Orientada a Objetos simulando operações bancárias.
+Simulação de sistema bancário utilizando Programação Orientada a Objetos.
 
 **Tecnologias**
 
@@ -161,21 +247,9 @@ Java • POO
 
 ---
 
-## 📋 Avaliação MySQL
+## 📋 Avaliações e Práticas Java
 
-Atividade avaliativa de Banco de Dados desenvolvida durante o Bootcamp Generation Brasil.
-
-**Tecnologias**
-
-SQL • MySQL
-
-🔗 https://github.com/vitoriaalbuquerqueee/generation-mysql-assessment
-
----
-
-## 📚 Prática Avaliada 03
-
-Lista de exercícios desenvolvidos em Java durante o Bootcamp.
+Repositório contendo exercícios e desafios desenvolvidos durante o Bootcamp Generation Brasil.
 
 **Tecnologias**
 
@@ -187,13 +261,21 @@ Java
 
 ## 🚀 Projeto Final - Bloco 01
 
-Projeto desenvolvido ao final do primeiro bloco da Generation aplicando Java e Programação Orientada a Objetos.
+Aplicação Java utilizando conceitos de Programação Orientada a Objetos.
 
 **Tecnologias**
 
 Java • POO
 
 🔗 https://github.com/vitoriaalbuquerqueee/projeto_final_bloco_01
+
+---
+
+## 📚 Repositório da Turma Java 85
+
+Fork oficial utilizado durante as atividades da Generation Brasil.
+
+🔗 https://github.com/vitoriaalbuquerqueee/turma_java_85
 
 ---
 
@@ -206,8 +288,6 @@ Java • POO
 - AWS Cloud
 - Java Avançado
 - Inglês para Tecnologia
-
-
 
 ---
 
@@ -227,7 +307,7 @@ Java • POO
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitoriaalbuquerqueee&theme=react-dark&bg_color=0D1117&color=A855F7&line=8A2BE2&point=FFFFFF&area=true&hide_border=true"/>
 
-</l
+</p>
 
 # 🌎 Idiomas
 
@@ -294,4 +374,3 @@ Java • POO
 ⭐ Se algum projeto foi útil para você, considere deixar uma estrela!
 
 </p>
-
